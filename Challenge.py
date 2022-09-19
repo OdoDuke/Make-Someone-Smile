@@ -5,7 +5,7 @@ print ("Glad to have you here",name,"!")
 def pos_affi():
     number = input("Please pick a number from 1-5 for a priceless gift: ")
     if number == 1:
-        print ("Your laughter and smile comparet to none other, I hope you always have reasons to smile!")
+        print ("Your laughter and smile compare to none other, I hope you always have reasons to smile!")
     elif number == 2:
         print ("You are deserving of great opportunities and soon you will have an abundant flow of them!")
     elif number == 3:
